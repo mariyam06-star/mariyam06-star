@@ -27,20 +27,66 @@
 
 ## 🌟 About Me
 
-```python
-class Mariyam:
-    name       = "Mariyam Y. Sidat"
-    role       = "Aspiring IT Professional"
-    mission    = "Building skills for global opportunity"
-    languages  = ["Python", "Java", "C", "C++", "PHP"]
-    databases  = ["MySQL", "SQLite", "MongoDB", "Cassandra", "Oracle"]
-    web        = ["HTML5"]
-    frameworks = ["Laravel"]
-    data       = ["NumPy", "Pandas", "SciPy", "Matplotlib"]
-    tools      = ["Git", "GitHub", "Figma", "Canva", "Apache"]
-    open_to    = ["Collaborations", "Internships", "Open Source"]
-    fun_fact   = "I turn coffee ☕ into code 💻"
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+### 👩‍💻 Who Am I?
+
+> 🌸 **Hey! I'm Mariyam Y. Sidat** — a passionate and driven IT student on a mission to build skills that open doors across the globe. I love turning ideas into reality through code, design, and data.
+
+<br/>
+
+| 🔍 | Details |
+|---|---|
+| 🎓 | **IT Student & Aspiring Professional** |
+| 🌍 | **Building for Global Opportunity** |
+| 💡 | **Problem Solver & Creative Thinker** |
+| 🤝 | **Open to Collaborations & Internships** |
+| ✉️ | **mariyamsidat8899@gmail.com** |
+
+<br/>
+
 ```
+💭 My Philosophy:
+"Code is not just syntax —
+ it's a bridge between dreams
+ and reality." ✨
+```
+
+</td>
+<td width="5%"></td>
+<td width="40%" valign="top">
+
+### 🚀 Quick Facts
+
+```yaml
+🌱 Currently:
+  - Learning data science daily
+  - Building web projects
+  - Exploring open source
+
+⚡ Interests:
+  - Full Stack Development
+  - Data Analysis & Viz
+  - UI/UX with Figma
+
+🎯 Goals 2025:
+  - Land first internship
+  - Contribute to OSS
+  - Build 5 live projects
+
+☕ Fun Fact:
+  Coffee → Code → Repeat!
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
