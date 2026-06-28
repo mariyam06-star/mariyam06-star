@@ -25,67 +25,42 @@
 
 ---
 
-## 🌟 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=✨+IT+Student+%7C+Dreamer+%7C+Builder+✨;🌍+Building+Skills+for+Global+Opportunity;💜+Passionate+about+Code+%26+Design;🚀+Turning+Ideas+Into+Reality" alt="about typing" />
 
-### 👩‍💻 Who Am I?
-
-> 🌸 **Hey! I'm Mariyam Y. Sidat** — a passionate and driven IT student on a mission to build skills that open doors across the globe. I love turning ideas into reality through code, design, and data.
+</div>
 
 <br/>
 
-| 🔍 | Details |
-|---|---|
-| 🎓 | **IT Student & Aspiring Professional** |
-| 🌍 | **Building for Global Opportunity** |
-| 💡 | **Problem Solver & Creative Thinker** |
-| 🤝 | **Open to Collaborations & Internships** |
-| ✉️ | **mariyamsidat8899@gmail.com** |
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    👩‍💻  Hi, I'm Mariyam — code, data & design excite me!    ║
+║                                                              ║
+║   🎓  IT Student          🌍  Global Mindset                 ║
+║   💡  Creative Thinker    🤝  Open to Collabs                ║
+║   📊  Data Enthusiast     🎨  UI/UX Explorer                 ║
+║   🔥  Always Learning     ☕  Coffee-Fuelled Coder           ║
+║                                                              ║
+║         " Dream it. Code it. Ship it. " 🚀                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <br/>
 
-```
-💭 My Philosophy:
-"Code is not just syntax —
- it's a bridge between dreams
- and reality." ✨
-```
-
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top">
-
-### 🚀 Quick Facts
-
-```yaml
-🌱 Currently:
-  - Learning data science daily
-  - Building web projects
-  - Exploring open source
-
-⚡ Interests:
-  - Full Stack Development
-  - Data Analysis & Viz
-  - UI/UX with Figma
-
-🎯 Goals 2025:
-  - Land first internship
-  - Contribute to OSS
-  - Build 5 live projects
-
-☕ Fun Fact:
-  Coffee → Code → Repeat!
-```
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+<img src="https://img.shields.io/badge/🎓_Student-IT_Professional-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡_Passion-Data_%26_Dev-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌱_Status-Always_Learning-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Open_To-Internships_%26_OSS-5B21B6?style=for-the-badge" />
 </div>
 
 ---
