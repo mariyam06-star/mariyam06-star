@@ -11,15 +11,17 @@
 <br/>
 
 <!-- Profile badges -->
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=mariyam06-star&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/mariyam-sidat">
+  <a href="https://www.linkedin.com/in/mariyam-sidat-32a336359/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mariyamsidat8899@gmail.com">
     <img src="https://img.shields.io/badge/Email-mariyamsidat8899@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 </div>
 
@@ -129,9 +131,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mariyam-sidat">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/mariyam-sidat-32a336359/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 &nbsp;
 <a href="mailto:mariyamsidat8899@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
