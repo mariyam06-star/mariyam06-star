@@ -25,43 +25,47 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+## 🌸 About Me
 
-<div align="center">
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" valign="top" align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=✨+IT+Student+%7C+Dreamer+%7C+Builder+✨;🌍+Building+Skills+for+Global+Opportunity;💜+Passionate+about+Code+%26+Design;🚀+Turning+Ideas+Into+Reality" alt="about typing" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+
+</td>
+<td width="50%" valign="top" align="left">
+
+### 💜 Hi there, I'm Mariyam! 
+
+🌟 An **Aspiring IT Professional** who believes every line of code is a step closer to a better world.
+
+<br/>
+
+🎓 &nbsp;**Student** — constantly leveling up <br/>
+🌍 &nbsp;**Vision** — Building for global impact <br/>
+💡 &nbsp;**Superpower** — Turning ideas into solutions <br/>
+🎨 &nbsp;**Creative side** — Design + Data + Dev <br/>
+🤝 &nbsp;**Open to** — Internships, collabs & OSS <br/>
+☕ &nbsp;**Fuel** — Coffee + Curiosity <br/>
+
+<br/>
+
+<div>
+
+![Coding](https://img.shields.io/badge/💻_Mode-Always_Coding-7C3AED?style=flat-square)
+![Learning](https://img.shields.io/badge/📚_Growth-Never_Stops-A855F7?style=flat-square)
+![Vibes](https://img.shields.io/badge/✨_Vibes-Dream_Big-C084FC?style=flat-square)
 
 </div>
 
 <br/>
 
-<div align="center">
+> 💬 *"The expert in anything was once a beginner."*
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    👩‍💻  Hi, I'm Mariyam — code, data & design excite me!    ║
-║                                                              ║
-║   🎓  IT Student          🌍  Global Mindset                 ║
-║   💡  Creative Thinker    🤝  Open to Collabs                ║
-║   📊  Data Enthusiast     🎨  UI/UX Explorer                 ║
-║   🔥  Always Learning     ☕  Coffee-Fuelled Coder           ║
-║                                                              ║
-║         " Dream it. Code it. Ship it. " 🚀                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/🎓_Student-IT_Professional-A855F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡_Passion-Data_%26_Dev-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌱_Status-Always_Learning-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝_Open_To-Internships_%26_OSS-5B21B6?style=for-the-badge" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
