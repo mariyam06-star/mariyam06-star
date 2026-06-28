@@ -115,15 +115,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyam06-star&theme=tokyonight&border=7C3AED&ring=C084FC&fire=7C3AED&currStreakLabel=C084FC" />
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariyam06-star&theme=dracula&column=6&margin-w=12&margin-h=12" />
-</div>
-
----
 
 ## 🌱 Currently Working On
 
